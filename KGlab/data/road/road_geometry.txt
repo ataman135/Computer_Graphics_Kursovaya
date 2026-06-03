@@ -1,0 +1,17 @@
+segments 16
+segment 25 0 0
+segment 16.3221 5.74287 0
+segment 17.6777 17.6777 0
+segment 9.56709 23.097 0
+segment 1.53081e-15 25 0
+segment -4.74201 11.8088 0
+segment -7.78059 5.57707 0
+segment -16.1543 1.89011 0
+segment -25 3.06162e-15 0
+segment -23.097 -9.56709 0
+segment -17.6777 -17.6777 0
+segment -16.4318 -30.984 0
+segment -0.49098 -31.6624 0
+segment 9.56709 -23.097 0
+segment 17.6777 -17.6777 0
+segment 23.097 -9.56709 0

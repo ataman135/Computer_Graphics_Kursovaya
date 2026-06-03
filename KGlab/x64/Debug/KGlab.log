@@ -1,0 +1,36 @@
+﻿  Camera.cpp
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.h(60,10): error C2039: "mutex": не является членом "std".
+D:\VS\VC\Tools\MSVC\14.35.32215\include\atomic(228,1): message : см. объявление "std"
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.h(60,16): error C3646: events_mutex: неизвестный спецификатор переопределения
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.h(60,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  debout.cpp
+  GUItextRectangle.cpp
+  Light.cpp
+D:\Уник\Computer_Graphic\Race\KGlab\OpenGL.h(4,10): fatal  error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  main.cpp
+D:\Уник\Computer_Graphic\Race\KGlab\OpenGL.h(4,10): fatal  error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  MyOGL.cpp
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.h(60,10): error C2039: "mutex": не является членом "std".
+D:\VS\VC\Tools\MSVC\14.35.32215\include\atomic(228,1): message : см. объявление "std"
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.h(60,16): error C3646: events_mutex: неизвестный спецификатор переопределения
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.h(60,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(142,27): warning C4244: аргумент: преобразование "WPARAM" в "int", возможна потеря данных
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(145,29): warning C4244: аргумент: преобразование "WPARAM" в "int", возможна потеря данных
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(175,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(182,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(189,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(196,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(203,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(210,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(217,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(224,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(231,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(238,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(245,38): error C2065: events_mutex: необъявленный идентификатор
+D:\Уник\Computer_Graphic\Race\KGlab\MyOGL.cpp(281,42): error C2065: events_mutex: необъявленный идентификатор
+  MyShaders.cpp
+  ObjLoader.cpp
+  Render.cpp
+D:\Уник\Computer_Graphic\Race\KGlab\OpenGL.h(4,10): fatal  error C1083: Не удается открыть файл включение: GLFW/glfw3.h: No such file or directory,
+  Texture.cpp
+  Создание кода...
