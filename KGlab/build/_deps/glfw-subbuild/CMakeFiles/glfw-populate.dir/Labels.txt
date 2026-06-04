@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/907d93d70e94dfec8634f761c207eab1/glfw-populate.rule
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/6711585753d6e213cd8573eebfe36bfa/glfw-populate-complete.rule
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/a4a96dda256525f749e287fac0117f45/glfw-populate-build.rule
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/a4a96dda256525f749e287fac0117f45/glfw-populate-configure.rule
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/a4a96dda256525f749e287fac0117f45/glfw-populate-download.rule
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/a4a96dda256525f749e287fac0117f45/glfw-populate-install.rule
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/a4a96dda256525f749e287fac0117f45/glfw-populate-mkdir.rule
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/a4a96dda256525f749e287fac0117f45/glfw-populate-patch.rule
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/a4a96dda256525f749e287fac0117f45/glfw-populate-test.rule
+D:/Race/KGlab/build/_deps/glfw-subbuild/CMakeFiles/a4a96dda256525f749e287fac0117f45/glfw-populate-update.rule

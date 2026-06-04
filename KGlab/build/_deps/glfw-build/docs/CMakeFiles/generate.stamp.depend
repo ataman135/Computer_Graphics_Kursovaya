@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+D:/Race/KGlab/build/_deps/glfw-src/docs/CMakeLists.txt
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/FindDoxygen.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/FindPackageHandleStandardArgs.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/FindPackageMessage.cmake

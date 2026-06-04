@@ -1,0 +1,10 @@
+^D:\RACE\KGLAB\CMAKELISTS.TXT
+setlocal
+D:\VS\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SD:/Race/KGlab -BD:/Race/KGlab/build --check-stamp-file D:/Race/KGlab/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

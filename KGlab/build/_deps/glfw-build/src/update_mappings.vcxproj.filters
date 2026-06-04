@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Race\KGlab\build\CMakeFiles\cd71adb959df5ae993eaf168f62906f1\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Race\KGlab\build\_deps\glfw-src\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Race\KGlab\build\_deps\glfw-src\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="D:\Race\KGlab\build\_deps\glfw-src\CMake\GenerateMappings.cmake" />
+    <None Include="D:\Race\KGlab\build\_deps\glfw-build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D205E79A-500A-3A3E-8CB3-67EEAE4FDCFD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A954F7B6-8181-3C71-9629-5090969D68D9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

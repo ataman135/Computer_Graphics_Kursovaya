@@ -1,0 +1,10 @@
+^D:\RACE\KGLAB\BUILD\_DEPS\GLFW-SUBBUILD\CMAKEFILES\907D93D70E94DFEC8634F761C207EAB1\GENERATE.STAMP.RULE
+setlocal
+D:\VS\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SD:/Race/KGlab/build/_deps/glfw-subbuild -BD:/Race/KGlab/build/_deps/glfw-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Race/KGlab/build/_deps/glfw-subbuild/glfw-populate.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

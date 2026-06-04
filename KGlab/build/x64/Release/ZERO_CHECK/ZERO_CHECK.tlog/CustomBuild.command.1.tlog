@@ -1,0 +1,10 @@
+^D:\RACE\KGLAB\BUILD\CMAKEFILES\301E2E8754B995EB299A0194C39D765E\GENERATE.STAMP.RULE
+setlocal
+D:\VS\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SD:/Race/KGlab -BD:/Race/KGlab/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Race/KGlab/build/kg_2.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

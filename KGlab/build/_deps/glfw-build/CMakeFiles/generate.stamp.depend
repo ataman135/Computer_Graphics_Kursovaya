@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+D:/Race/KGlab/build/_deps/glfw-src/CMake/cmake_uninstall.cmake.in
+D:/Race/KGlab/build/_deps/glfw-src/CMake/glfw3Config.cmake.in
+D:/Race/KGlab/build/_deps/glfw-src/CMakeLists.txt
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/CMakeDependentOption.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/CMakePackageConfigHelpers.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/CheckCSourceCompiles.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/CheckIncludeFile.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/CheckLibraryExists.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/FindPackageHandleStandardArgs.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/FindPackageMessage.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/FindThreads.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/GNUInstallDirs.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/Internal/CheckSourceCompiles.cmake
+D:/VS/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/WriteBasicConfigVersionFile.cmake
